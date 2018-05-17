@@ -58,5 +58,5 @@ cacheSolve <- function(x, ...)
                   x$setinverse(invers) ## cachinng inverse of matrix "x"
                   invers   ## Returning a matrix that is the inverse of 'x'
               }
-##-----------------------------------------------------------------------------              }
+##-----------------------------------------------------------------------------             
 
